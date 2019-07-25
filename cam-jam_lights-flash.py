@@ -1,3 +1,5 @@
+#Refer to CamJam EduKit 1  - Worksheet 3  (RPI.GPIO) - Blinking LEDs.pdf for pin placement
+
 import RPi.GPIO as GPIO     #this opens the library
 
 GPIO.setmode(GPIO.BCM)      #pins names
